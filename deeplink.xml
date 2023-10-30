@@ -1,0 +1,35 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Hotstar - Watch TV Shows, Movies, Live Cricket Matches & News Online</title>
+<id>https://www.hotstar.com/</id>
+<link rel="self" href="/feed"/>
+<link href="https://www.hotstar.com"/>
+<updated>2023-10-10T06:47:22Z</updated>
+<author>
+<name>Atom Feed 2023-10-10T06:47:22Z</name>
+</author>
+<rights>© 2019 STAR</rights>
+<entry>
+<title>Stealth Bomber Down</title>
+<id>https://www.hotstar.com/id/tv/air-crash-investigation/8229/stealth-bomber-down/1260101767</id>
+<link rel="alternate" href="https://www.hotstar.com/id/tv/air-crash-investigation/8229/stealth-bomber-down/1260101767" hreflang="en-id"/>
+<updated>2023-10-10T06:48:00Z</updated>
+<content type="xhtml" xml:lang="en"/>
+</entry>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.hotstar.com/in/tv/suvarna-sankalp/1260044331/all-about-kamadgiri-hill/1100090361</loc>
+    <lastmod>2023-04-14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.hotstar.com/in/tv/suvarna-sankalp/1260044331/anusuya-devi-temple/1100090418</loc>
+    <lastmod>2023-04-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.hotstar.com/in/tv/suvarna-sankalp/1260044331/all-about-kunti/1100090471</loc>
+    <lastmod>2023-04-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.hotstar.com/in/tv/suvarna-sankalp/1260044331/prediction-for-aries/1100090505</loc>
+    <lastmod>2023-04-17</lastmod>
+  </url>
+</urlset>
